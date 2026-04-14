@@ -1,6 +1,6 @@
 # VPS01
 ## Verificação Prática Somativa 01 
-Arquivos gerados durante a avaliação de Lógica de Programação, algoritmos e fluxogramas 
+Arquivos gerados durante a avaliação de Lógica de Programação, algoritmos e fluxogramas. 
 
 ## Tecnologias
 
