@@ -8,7 +8,7 @@ Arquivos gerados durante a avaliação de Lógica de Programação, algoritmos e
 |:-:|-|
 |Linguagem *C*|Desenvolvimento|
 |IDE| Embarcadero *Dev C++*|
-|.[Draw.io](https://app.diagrams.net/)  |Braw.io |para desenhar os fluxogramas|
+|.[Draw.io](https://app.diagrams.net/)  |Draw.io |para desenhar os fluxogramas|
 | Bloco de notas|* portugol* lógica|
 
 ## Como testar
